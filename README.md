@@ -1,3 +1,1 @@
-# WhoIsTheAlien
-
-This is the Unreal C++ code for a fully networked online shooting game. Network uses a listen-server architecture.
+This is the Unreal C++ code I wrote for a working online shooting game. Network uses a listen-server architecture.
